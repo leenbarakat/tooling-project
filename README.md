@@ -129,3 +129,19 @@ GitHub has higher accessibility and is more centered on infrastructure performan
 GitHub has a few of the finest documentation around. And it let me collaborate with othe colleagues on the same project on the same repositry 
 
 Backup Using an online repository ought to never be considered trustworthy, but it gives a decent and straightforward way to have their code and version history available online, in any case of what happens to their local machine. For some people, this is often enough.
+
+
+ ## Task 3.2
+
+ •	Black box testing we care about the output. 
+
+•	Linux because its an open source and its fast. 
+
+
+•	Vs code because it helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more. Intuitive keyboard shortcuts, easy customization and community-contributed keyboard shortcut mappings let you navigate your code with ease.
+
+
+•	Github open community it enhances the communication between the team members by using the same repo and write code together. 
+
+
+
